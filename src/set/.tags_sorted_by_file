@@ -1,0 +1,18 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+Add	set.go	/^func (set *HashSet) Add(e interface{}) bool {$/;"	f
+Clear	set.go	/^func (set *HashSet) Clear() {$/;"	f
+Contains	set.go	/^func (set *HashSet) Contains(e interface{}) bool {$/;"	f
+Elements	set.go	/^func (set *HashSet) Elements() []interface{} {$/;"	f
+HashSet	set.go	/^type HashSet struct {$/;"	t
+IsSuperSet	set.go	/^func (set *HashSet) IsSuperSet(other *HashSet) bool {$/;"	f
+Len	set.go	/^func (set *HashSet) Len() int {$/;"	f
+NewHashSet	set.go	/^func NewHashSet() *HashSet {$/;"	f
+Remove	set.go	/^func (set *HashSet) Remove(e interface{}) {$/;"	f
+Same	set.go	/^func (set *HashSet) Same(other *HashSet) bool {$/;"	f
+String	set.go	/^func (set *HashSet) String() string {$/;"	f
+set	set.go	/^package set$/;"	p
